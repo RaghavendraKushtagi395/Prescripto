@@ -88,212 +88,212 @@ export const specialityData = [
 export const doctors = [
     {
         _id: 'doc1',
-        name: 'Dr. Richard James',
+        name: 'Dr. Yash Gupta',
         image: doc1,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Yash Gupta has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 500,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '17th Cross, Church Street',
+            line2: 'Circle, Ring Road, Bengaluru'
         }
     },
     {
         _id: 'doc2',
-        name: 'Dr. Emily Larson',
+        name: 'Dr. Pooja Bhatt',
         image: doc2,
         speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        about: 'Dr. Pooja Bhatt has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 650,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '27th Cross, Om Nagar',
+            line2: 'Circle, Ring Road, Kalaburagi'
         }
     },
     {
         _id: 'doc3',
-        name: 'Dr. Sarah Patel',
+        name: 'Dr. Dhruv Patel',
         image: doc3,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 30,
+        about: 'Dr. Sarah Patel has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 300,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '37th Cross, Vidya Nagar',
+            line2: 'Circle, Ring Road, Hubli'
         }
     },
     {
         _id: 'doc4',
-        name: 'Dr. Christopher Lee',
+        name: 'Dr. Rahul Kumar',
         image: doc4,
         speciality: 'Pediatricians',
         degree: 'MBBS',
         experience: '2 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 40,
+        about: 'Dr. Rahul Kumar Singh has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 400,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '47th Cross, opp HM Complex',
+            line2: 'Circle, Ring Road, Pune'
         }
     },
     {
         _id: 'doc5',
-        name: 'Dr. Jennifer Garcia',
+        name: 'Dr. Sarah Patel',
         image: doc5,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Sarah Patel has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 150,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '57th Cross, Gandhi Nagar ',
+            line2: 'Circle, Ring Road, Mumbai'
         }
     },
     {
         _id: 'doc6',
-        name: 'Dr. Andrew Williams',
+        name: 'Dr. Ajay Nagar ',
         image: doc6,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Ajay has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 150,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '57th Cross, Ministers Colony',
+            line2: 'Circle, Ring Road, Delhi'
         }
     },
     {
         _id: 'doc7',
-        name: 'Dr. Christopher Davis',
+        name: 'Dr. Shubham Gill',
         image: doc7,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Gill has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 200,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '17th Cross, Jay Nagar',
+            line2: 'Circle, Ring Road, Kalaburagi'
         }
     },
     {
         _id: 'doc8',
-        name: 'Dr. Timothy White',
+        name: 'Dr. Raghavendra',
         image: doc8,
         speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        about: 'Dr. Raghavendra has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 650,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '4th Cross, VPL Layout',
+            line2: ' Sedam Road, Kalaburagi'
         }
     },
     {
         _id: 'doc9',
-        name: 'Dr. Ava Mitchell',
+        name: 'Dr. Radhika ',
         image: doc9,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 30,
+        about: 'Dr. Radhika has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 300,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '37th Cross, Rajaji Nagar',
+            line2: 'Circle, Ring Road, Bengaluru'
         }
     },
     {
         _id: 'doc10',
-        name: 'Dr. Jeffrey King',
+        name: 'Dr. Karan',
         image: doc10,
         speciality: 'Pediatricians',
         degree: 'MBBS',
         experience: '2 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 40,
+        about: 'Dr. Karan has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 400,
         address: {
-            line1: '47th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '77th Cross, Hootgalli',
+            line2: 'Circle, Ring Road, Mysuru'
         }
     },
     {
         _id: 'doc11',
-        name: 'Dr. Zoe Kelly',
+        name: 'Dr. Tsunadae',
         image: doc11,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Tsunadae has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 500,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '57th Cross, Vijaynagar',
+            line2: 'Circle, Ring Road, Mysuru'
         }
     },
     {
         _id: 'doc12',
-        name: 'Dr. Patrick Harris',
+        name: 'Dr. Patrick',
         image: doc12,
         speciality: 'Neurologist',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Patrick has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 400,
         address: {
-            line1: '57th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '57th Cross, Vijaynagar',
+            line2: 'Circle, Ring Road, Mysuru'
         }
     },
     {
         _id: 'doc13',
-        name: 'Dr. Chloe Evans',
+        name: 'Dr. Rekha',
         image: doc13,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 50,
+        about: 'Dr. Rekha has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 500,
         address: {
-            line1: '17th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '17th Cross, Lal Chowk',
+            line2: 'Circle, Ring Road, Delhi'
         }
     },
     {
         _id: 'doc14',
-        name: 'Dr. Ryan Martinez',
+        name: 'Dr. Atal',
         image: doc14,
         speciality: 'Gynecologist',
         degree: 'MBBS',
         experience: '3 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 60,
+        about: 'Dr. Atal has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 600,
         address: {
-            line1: '27th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '27th Cross, Gandhi Nagar',
+            line2: 'Circle, Ring Road, Jaipur'
         }
     },
     {
         _id: 'doc15',
-        name: 'Dr. Amelia Hill',
+        name: 'Dr. Shreya',
         image: doc15,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Years',
-        about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
-        fees: 30,
+        about: 'Dr. Shreya has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 300,
         address: {
-            line1: '37th Cross, Richmond',
-            line2: 'Circle, Ring Road, London'
+            line1: '37th Cross, Adarsh Nagar',
+            line2: 'Circle, Ring Road, Kalaburagi'
         }
     },
 ]
